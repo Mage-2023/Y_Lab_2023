@@ -1,0 +1,4 @@
+10.10.2023 03:04:40.583 [main] INFO  wallet.repositories.BankDatabase - Registered new account with account number - 123 and pin - 321
+10.10.2023 03:04:52.140 [main] INFO  wallet.app.Wallet - User - 123 exited
+11.10.2023 08:16:35.258 [main] INFO  wallet.repositories.BankDatabase - Registered new account with account number - 123 and pin - 321
+11.10.2023 08:17:21.334 [main] INFO  wallet.repositories.BankDatabase - User 123 viewed transaction history
